@@ -25,10 +25,10 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: edafb8 #80B3FF
+  primary: 986d9c #80B3FF
   primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 7e91ac #FD6E8A
-  secondary-dark: c6878f #A2122F
+  secondary: 5c6b73 #FD6E8A
+  secondary-dark: 51375a #A2122F
 
 # Footer settings
 footer:
@@ -50,7 +50,7 @@ email:
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Edgefield, South Carolina
+  - line: Greenville, South Carolina
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
