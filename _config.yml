@@ -4,13 +4,13 @@ email: key.taylor2026@gmail.com
 url: https://keytaylor2026-dot.github.io/Cyber-Portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Cybersecurity - Analyst - Ethical Hacker"
+skills: "Cybersecurity | Governance, Risk & Compliance"
 meta_author: Taylor Keyonia
 
 # Google webmaster tools
 google_verify:
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# https://ssl.bing.com/webmaster/configure/ownership Option 2 content= goes here
 bing_verify:
 
 # Contact form:
@@ -37,7 +37,7 @@ footer:
   social: Around the Web
   credits: Credits
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, etc.)
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/keyonia-taylor-749318239/
