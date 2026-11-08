@@ -1,12 +1,11 @@
 ---
 layout: default
 modal-id: 1
-title: Security Audit
-img: audit.png
-alt: image-alt
+title: Risk Assessment
+img: risk-assessment.png
+alt: Risk assessment project graphic
 
-# Reminder: Update this link with your own project link
-project-url: https://drive.google.com/file/d/1F9A_DOLLTyRT_d6vC2zwgGXW5ZSNL9DP/view?usp=sharing
+project-url: pdfs/Keyonia_Taylor_GRC_Risk_Case_Study.pdf
 
-description: Conducted a controls and compliance assessment and provided recommendations to company stakeholders to mitigate risks and avoid fines based on best practices for NIST CSF, PCI DSS, GDPR, SOC 1 & SOC 2.
+description: Conducted a simulated security risk assessment for a Medicare Advantage environment focused on protecting beneficiary PII/PHI. Evaluated existing controls, assessed likelihood and impact, determined residual risk, and developed an RBAC-based treatment plan with defined owners, implementation milestones, and target dates.
 ---
