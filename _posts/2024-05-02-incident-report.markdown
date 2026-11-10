@@ -1,12 +1,9 @@
 ---
 layout: default
 modal-id: 2
-title: Incident Report
-img: incident.png
-alt: image-alt
-
-# Reminder: Update this link with your own project link
-project-url: https://drive.google.com/file/d/1qgQmrH4yzHK6-cdeHpFRvSbdzhjV17pP/view?usp=sharing
-
-description: Identified DDoS attack, scope of incident, potential network vulnerabilities and protection measures, and properly documented analysis and recovery plans in order to restore normal operations and maintain alignment with NIST CSF best practices.
+title: Controls & Gap Analysis
+img: gap-analysis.png
+alt: Controls and Gap Analysis healthcare GRC case study
+project-url: https://keytaylor2026-dot.github.io/Cyber-Portfolio/pdfs/Keyonia_Taylor_GRC_Controls_Gap_Analysis_Portfolio.pdf
+description: Conducted an applied GRC controls and gap analysis in a fictional Medicare Advantage environment involving PII/PHI. Evaluated RBAC, least privilege, role-transfer controls, quarterly access reviews, evidence quality, and certification oversight. Identified control-design and operating-effectiveness gaps, performed root-cause analysis, and developed remediation recommendations focused on access reconciliation, automated mismatch detection, exception management, and stronger review oversight.
 ---
